@@ -3846,7 +3846,4 @@ keypress("q", x, bpm)
 keypress("W", x, bpm)
 keypress("4", x, bpm)
 
-finishedSong()est(64.25, bpm)
-keypress("I", x, bpm)
-
 finishedSong()
